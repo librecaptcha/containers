@@ -1,7 +1,7 @@
 # SBT on Alpine
 
 This is a base docker image used in the LibreCaptcha project. 
-It is based off Alpine and has specific versions of scala, sbt and jre installed to support the project.
+It is based on Alpine and has specific versions of scala, sbt and jre installed to support the project.
 
 ## Current Versions
 
